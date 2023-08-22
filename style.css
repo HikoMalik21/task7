@@ -1,0 +1,90 @@
+.container{
+    max-width: 1000px;
+    margin-inline: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#imgchip{
+    width: 50px;
+    padding-top: 35px;
+    margin-left: -5px;
+}
+.valid{
+    font-size: 9px;
+    font-family: 'Tahoma', sans-serif;
+}
+p{
+    margin: 0;
+}
+#logo{
+    width: 100px;
+    height: 35px;
+    margin-left: 200px;
+    margin-top: -10px;
+    position: absolute;
+    
+}
+img{
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.cards{
+    width: 315px;
+    height: 200px;
+    min-width: 300px;
+    background-color: #8e44ad;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffffff;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+
+.cards1{
+    width: 315px;
+    height: 200px;
+    min-width: 300px;
+    background-color: #009432;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffffff;
+    border-radius: 10px;
+    padding-left: 15px;
+
+}
+.cards2{
+    width: 315px;
+    height: 200px;
+    min-width: 300px;
+    background-color: #0652DD;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffffff;
+    border-radius: 10px;
+    padding-left: 15px;
+
+}
+
+.cards3{
+    width: 315px;
+    height: 200px;
+    min-width: 300px;
+    background-color: #161617;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffffff;
+    border-radius: 10px;
+    padding-left: 15px;
+
+}
+#cardname{
+    font-size: 20px;
+    font-family: monospace;
+}
+#date{
+    font-size: 13px;
+    margin-right: 200px;
+    margin-bottom: -10px;
+}
